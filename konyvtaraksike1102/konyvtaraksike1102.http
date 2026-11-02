@@ -1,0 +1,6 @@
+@konyvtaraksike1102_HostAddress = http://localhost:5020
+
+GET {{konyvtaraksike1102_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
